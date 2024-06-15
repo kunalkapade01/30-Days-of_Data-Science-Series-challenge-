@@ -1,4 +1,4 @@
-# **Day 1 to Day 30 dat Science Series:**
+# **Day 1 to Day 30 Data Science Series:**
 
 - **Day 1: Linear Regression**
   - Concept: Predict continuous values.
@@ -19,3 +19,13 @@
   - Concept: Ensemble of decision trees.
   - Implementation: Bagging.
   - Evaluation: Out-of-bag error, feature importance.
+ 
+- **Day 5: Gradient Boosting**
+  - Concept: Sequential ensemble method.
+  - Implementation: Boosting.
+  - Evaluation: Learning rate, number of estimators.
+
+- **Day 6: Support Vector Machines (SVM)**
+  - Concept: Classification using hyperplanes.
+  - Implementation: Kernel trick.
+  - Evaluation: Margin maximization, support vectors.
