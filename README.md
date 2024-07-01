@@ -29,3 +29,8 @@
   - Concept: Classification using hyperplanes.
   - Implementation: Kernel trick.
   - Evaluation: Margin maximization, support vectors.
+
+- **𝐃𝐚𝐲 𝟕: 𝐤-𝐍𝐞𝐚𝐫𝐞𝐬𝐭 𝐍𝐞𝐢𝐠𝐡𝐛𝐨𝐫𝐬 (𝐤-𝐍𝐍)**
+  - Concept: Instance-based learning.
+  - Implementation: Distance metrics.
+  - Evaluation: k-value tuning, distance functions.
