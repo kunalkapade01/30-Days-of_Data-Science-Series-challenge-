@@ -99,3 +99,25 @@
   - Concept: Sequential data processing.
   - Implementation: Hidden states.
   - Evaluation: Long-term dependencies.
+
+- **Day 21: Long Short-Term Memory (LSTM)**
+  - Concept: Improved RNN.
+  - Implementation: Memory cells.
+  - Evaluation: Forget gates, output gates.
+ 
+- **Day 22: Gated Recurrent Units (GRU)**
+  - Concept: Simplified LSTM.
+  - Implementation: Update gate.
+  - Evaluation: Performance, complexity.
+
+- **Day 23: Autoencoders**
+  - Concept: Data compression.
+  - Implementation: Encoder, decoder.
+  - Evaluation: Reconstruction error.
+
+- **Day 24: Transfer Learning**
+  - Concept: Pre-trained models.
+  - Implementation: Fine-tuning.
+  - Evaluation: Domain adaptation.
+ 
+- **Dayg 25: 𝐄𝐧𝐬𝐞𝐦𝐛𝐥𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠** 
