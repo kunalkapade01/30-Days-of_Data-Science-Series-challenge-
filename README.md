@@ -120,4 +120,33 @@
   - Implementation: Fine-tuning.
   - Evaluation: Domain adaptation.
  
-- **Dayg 25: 𝐄𝐧𝐬𝐞𝐦𝐛𝐥𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠** 
+- **Day 25: Ensemble Learning**
+  - Concept: multiple models.
+  - Implementation: Aggregate Predictions.
+  - Evaluation: RMSE.
+ 
+- **Day 26: Natural Language Processing (NLP)**
+  - Concept: Text classification.
+  - Implementation: Text Preprocessing.
+  - Evaluation: relevant metrics.
+ 
+- **Day 27: Time Series Analysis.**
+  - Concept:  Analyzing Data.
+  - Implementation: ARIMA, prophet and DL models.
+  - Evaluation: MAE, MSE, RMSE.
+ 
+- **Day 28: Model Deployment and Monitoring**
+  - Concept: ML models.
+  - Implementation: API like FLASK and Fast API.
+  - Evaluation: Deploy the ML model with Flask.
+ 
+- **Day 29: Hyperparameter Optimization**
+  - Concept: Model Performance.
+  - Implementation: Hyperparameter Tuning and Optimization Technique.
+  - Evaluation: Cross validation, Scoring Metrics (AUC).
+ 
+- **Day 30: Select from model with Random Forest Classifier.**
+  - Concept: Feature Selection, Feature Importance.
+  - Implemenatation: SelectFromModel.
+  - Evaluation: Model Train and Evalution.
+   
